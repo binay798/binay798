@@ -1,10 +1,10 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Binay
 
 A passionate and results-oriented Software Engineer with a proven track record of over three years in the industry. My journey in software development has been driven by a desire to solve complex problems and create meaningful user experiences. I thrive in collaborative environments and am committed to writing clean, tested, and well-documented code.
 
 ## 🚀 What I Do
 
-- **Backend Development:** Building scalable and resilient backend services using [mention technologies like Node.js, Spring Boot, Django, .NET Core].
+- **Backend Development:** Building scalable and resilient backend services using Node.js, Python, .
 - **Frontend Development:** Crafting responsive and intuitive user interfaces with [mention frameworks like React, Angular, Vue.js].
 - **Cloud & DevOps:** Experienced in deploying and managing applications on [mention cloud platforms like AWS, Azure, GCP] and utilizing CI/CD pipelines with tools like Jenkins, GitHub Actions, or GitLab CI.
 
@@ -12,13 +12,13 @@ A passionate and results-oriented Software Engineer with a proven track record o
 
 Here are some of the technologies I'm proficient in:
 
-- **Languages:** [e.g., JavaScript (ES6+), TypeScript, Python, Java, C#]
-- **Frameworks & Libraries:** [e.g., React, Node.js, Express.js, Spring Boot, Django, Next.js]
-- **Databases:** [e.g., PostgreSQL, MongoDB, MySQL, Redis, SQL Server]
-- **Cloud & DevOps:** [e.g., AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform]
-- **Tools & Platforms:** [e.g., Git, GitHub, Jenkins, Postman, Jira]
+- **Languages:** [e.g., JavaScript (ES6+), TypeScript, Python, C++, PHP]
+- **Frameworks & Libraries:** [React, Next.js, Node.js, Express.js, Django, Svelte]
+- **Databases:** [PostgreSQL, MongoDB, MySQL, Redis, SQL Server]
+- **Cloud & DevOps:** [AWS (EC2, S3, Lambda), Google Cloud, Docker, Pulumi]
+- **Tools & Platforms:** [Git, GitHub, Jenkins, Postman, Jira]
 
-*You can also use icons for a more visual appeal. You can find icons from sites like [https://devicon.dev/](https://devicon.dev/) or [https://simpleicons.org/](https://simpleicons.org/). Example below:*
+
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -41,25 +41,15 @@ Here are some of the technologies I'm proficient in:
 
 ## 🌱 What I'm Learning
 
-I believe in continuous learning and am always looking to expand my skillset. Currently, I'm diving deeper into [mention a specific area, e.g., serverless architecture, advanced Kubernetes concepts, or machine learning with Python].
-
-## 📈 My GitHub Stats
-
-<!-- You can use popular tools like anuraghazra/github-readme-stats to generate these -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+I believe in continuous learning and am always looking to expand my skillset. Currently, I'm diving deeper into [serverless architecture, advanced Kubernetes concepts].
 
 
 ## 📫 How to Reach Me
 
 I'm always open to connecting with fellow developers and discussing new opportunities. Feel free to reach out!
 
-- 📧 **Email:** [your-email@example.com]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/your-profile-url/]
-- 🌐 **Portfolio/Website:** [https://your-portfolio-url.com]
+- 📧 **Email:** [binayshrestha798@gmail.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/binayshrestha1/]
+- 🌐 **Portfolio/Website:** [https://binay.dev]
 
 Let's connect and build something amazing together!
