@@ -5,18 +5,18 @@ A passionate and results-oriented Software Engineer with a proven track record o
 ## 🚀 What I Do
 
 - **Backend Development:** Building scalable and resilient backend services using Node.js, Python, .
-- **Frontend Development:** Crafting responsive and intuitive user interfaces with [mention frameworks like React, Angular, Vue.js].
-- **Cloud & DevOps:** Experienced in deploying and managing applications on [mention cloud platforms like AWS, Azure, GCP] and utilizing CI/CD pipelines with tools like Jenkins, GitHub Actions, or GitLab CI.
+- **Frontend Development:** Crafting responsive and intuitive user interfaces with [React, Angular, Vue.js, Svelte, Vanilla js].
+- **Cloud & DevOps:** Experienced in deploying and managing applications on [AWS, Azure, GCP] and utilizing CI/CD pipelines with tools like Jenkins, GitHub Actions, or GitLab CI.
 
 ## 🛠️ My Tech Stack
 
 Here are some of the technologies I'm proficient in:
 
-- **Languages:** [e.g., JavaScript (ES6+), TypeScript, Python, C++, PHP]
+- **Languages:** [JavaScript (ES6+), TypeScript, Python, C++, PHP]
 - **Frameworks & Libraries:** [React, Next.js, Node.js, Express.js, Django, Svelte]
 - **Databases:** [PostgreSQL, MongoDB, MySQL, Redis, SQL Server]
 - **Cloud & DevOps:** [AWS (EC2, S3, Lambda), Google Cloud, Docker, Pulumi]
-- **Tools & Platforms:** [Git, GitHub, Jenkins, Postman, Jira]
+- **Tools & Platforms:** [Git, GitHub, Gitlab, Jenkins, Postman, Jira]
 
 
 
